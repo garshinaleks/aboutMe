@@ -6,7 +6,4 @@
 
 все мира и добра
 
-![самое удачное фото](img\qaqa.jpg)
-
-#![самое удачное фото](img\qaqa.png)
-
+![самое удачное фото](https://github.com/garshinaleks/aboutMe/raw/main/img/qaqa.jpg)
