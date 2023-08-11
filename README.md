@@ -6,4 +6,4 @@
 
 все мира и добра
 
-![самое удачное фото](C:\Users\admin\Downloads\qaqa.jpg)
+![самое удачное фото](img\qaqa.jpg)
