@@ -6,4 +6,4 @@
 
 все мира и добра
 
-![самое удачное фото](C:\Users\admin\Downloads\9b56c003d032ee25521915f222270108_cropped_666x666.jpg)
+![самое удачное фото](C:\Users\admin\Downloads\qaqa.jpg)
